@@ -1,5 +1,5 @@
 /*
-    pattern if you take n = 4 ;
+    pattern if you take input n = 4 ;
 
                 1
                 2   1
