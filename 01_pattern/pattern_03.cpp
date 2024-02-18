@@ -1,5 +1,5 @@
-/*
-    pattern for n = 4 ;
+/*        
+    pattern if you take  n = 4 ;
                         
                 16  15  14  13
                 12  11  10  9
